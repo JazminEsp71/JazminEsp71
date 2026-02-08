@@ -7,13 +7,9 @@ Actualmente trabajo con Node.js y Firebase mientras sigo aprendiendo sobre arqui
 ---
 
 ## 🛠 Tecnologías
-- Node.js
-- Express
-- Firebase
-- JavaScript
-- TypeScript
-- SQL
-- Git y GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,js,ts,git,github,mysql" />
+</p>
 
 ---
 
