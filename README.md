@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hola, soy Jazmín Esparza 👋
+### Backend Developer
 
-<!--
-**JazminEsp71/JazminEsp71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrolladora backend enfocada en la creación de APIs, manejo de bases de datos y lógica del servidor.  
+Actualmente trabajo con Node.js y Firebase mientras sigo aprendiendo sobre arquitectura y desarrollo full stack.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías
+- Node.js
+- Express
+- Firebase
+- JavaScript
+- TypeScript
+- SQL
+- Git y GitHub
+
+---
+
+## 📌 Proyectos destacados
+
+### API de clientes
+API REST para gestión de clientes con operaciones CRUD.  
+Tecnologías: Node.js, Express, Firebase
+
+### Sistema de inventario
+Backend para control de productos, entradas y salidas.  
+Tecnologías: Node.js, Firebase
+
+### Sistema escolar
+Aplicación con lógica de gestión de alumnos y calificaciones.  
+Tecnologías: JavaScript, base de datos
+
+---
+
+## 📫 Contacto
+- LinkedIn: www.linkedin.com/in/jazmin-esparza-808535217
+- Email: guadalop71@gmail.com
